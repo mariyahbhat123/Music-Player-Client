@@ -1,0 +1,14 @@
+.landingPageContainer {
+  background-color: #111111;
+}
+.navBarContainer {
+}
+.landingPageCard {
+  padding: 5%;
+}
+.navbarBody {
+  color: white;
+}
+.searchInput:focus {
+  border: none !important;
+}
